@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Professionalism in Computing"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/professionalism
+venue: "Virginia Tech"
+date: 2020-24-01
+location: "Blacksburg, VA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
