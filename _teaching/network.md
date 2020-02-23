@@ -1,5 +1,5 @@
 ---
-title: "Introduction To Programming"
+title: "Network Centric Computing"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/network
