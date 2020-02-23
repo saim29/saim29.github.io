@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/network
 venue: "Lahore University of Managment Sciences"
-date: 2019-24-01
+date: 2019-01-24
 location: "Lahore, Pakistan"
 ---
 
