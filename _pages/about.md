@@ -12,7 +12,7 @@ I am currently a Research Assistant working with the [FoRTE Reasearch Group](htt
 
 Research Interests and Projects
 ======
-Broadly, I am interested in working with systems, security and compilers. Currently, I am working on providing compiler support for intermittent computation on energy harvesting devices using LLVM
+Broadly, I am interested in working with systems, security and compilers. Currently, I am working on providing compiler support for intermittent computation on energy harvesting devices using LLVM. Energy harvesting devices operate without batteries, salvaging energy from the environment to perform computation. However, they need to time to recharge themselves after they run out of energy and hence this could cause any program running on these devices to restart entirely, wasting all progress. My current research is associated with allowing these devices to store state in memory to that when they come back on, they don't have to restart the program entirely. 
 
 General Interests
 ======
