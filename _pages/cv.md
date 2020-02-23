@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
-* [CV](http://saim29.github.io/files/CV.pdf)
+* [Resume link](http://saim29.github.io/files/CV.pdf)
