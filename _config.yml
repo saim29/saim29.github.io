@@ -13,7 +13,7 @@ name                     : &name "Saim Ahmad"
 description              : &description "personal description"
 url                      : https://saim29.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "saim29/saim29.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Saim Ahmad"
   avatar           : "saim.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Born and raised in Lahore, Pakistan. Currently a Research Assistant at Virginia Polytechnic Institute and State University"
   location         : "Blacksburg, VA. 24060"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    :
   email            : "saim19@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "saim29"
+  github           : "https://github.com/saim29"
   google_plus      :
   keybase          :
   instagram        :
@@ -233,16 +233,16 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS
