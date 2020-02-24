@@ -19,6 +19,3 @@ General Interests
 1. I am a huge fan of soccer
 1. I am an avid gamer
 1. I like to solve programming challenges 
-
-
-
