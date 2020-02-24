@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant working with the [FoRTE Reasearch Group](https://github.com/FoRTE-Research) group at Virginia Tech. I'm working under [Matthew Hicks](http://www.impedimenttoprogress.com/), who works on various projects, broadly associated with systems, security and architecture. Before this, I was working with the Systems group at The Lahore University of Management Sciences (LUMS) in Pakistan. Apart from that, I'm also a teaching assistant. I've taught various courses including Introduction to Programming, Operating Systems and Network Centric Computing. I'm current a TA for Professionalism in Computing.
+I am currently a Research Assistant working with the [FoRTE Reasearch Group](https://github.com/FoRTE-Research) group at Virginia Tech. I'm working under [Matthew Hicks](http://www.impedimenttoprogress.com/), who works on various projects, broadly associated with systems, security and architecture. Before this, I was working with the Systems group at The Lahore University of Management Sciences (LUMS) in Pakistan. Apart from that, I'm also a teaching assistant. I've taught various courses including Introduction to Programming, Operating Systems and Network Centric Computing. I'm currently a TA for Professionalism in Computing.
 
 Research Interests and Projects
 ======
