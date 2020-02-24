@@ -8,3 +8,4 @@ date: 2017-08-24
 location: "Lahore, Pakistan"
 ---
 
+An intro course which taught students how to program in c++. Covered basic topics and went up to advanced c++ concepts such as polymorphism and virtualization
