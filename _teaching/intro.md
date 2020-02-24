@@ -15,5 +15,6 @@ An intro course which taught students how to program in c++. Covered basic topic
 Responsibilities
 ----------------
 1. Conducting tutorials to help students
+1. 2 hours of office hours per week
 1. Conducting and grading coding lab sessions
 1. Grading homeworks, programming assingments, quizzes and exam papers
